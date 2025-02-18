@@ -1,2 +1,7 @@
 # Cleaning-Data-
-Data Cleaning Example
+Simple Example of Data Cleaning Using Pandas
+
+### References
+
+AlexTheAnalyst YouTube Channel
+
