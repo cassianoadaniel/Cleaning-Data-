@@ -1,4 +1,4 @@
-# Cleaning-Data-
+# Cleaning-Data
 Simple Example of Data Cleaning Using Pandas
 
 ### References
